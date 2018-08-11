@@ -1,6 +1,4 @@
-Company: Apple Inc
-Price: 208.75
-, Compared: 0.595 / 0.29%
-Company: Amazon.com Inc
-Price: 1,892.59
-, Compared: 97.78%
+AAPL
+207.36
+F
+9.91
